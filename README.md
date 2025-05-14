@@ -1,2 +1,8 @@
 # web_server
-This is one of my learning project in go lang
+
+The structure of the project will be:
+
+SERVER :
+  => /  -> index.html 
+  => /hello -> hello func
+  => /form -> form func -> form.html
