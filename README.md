@@ -1,8 +1,7 @@
 # web_server
+This projct is a simple webs server written in Go lang
 
-The structure of the project will be:
-
-SERVER :
-  => /  -> index.html 
-  => /hello -> hello func
-  => /form -> form func -> form.html
+**To Run the Server**
+```bash
+go run main.go
+```
